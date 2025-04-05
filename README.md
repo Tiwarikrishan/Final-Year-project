@@ -1,2 +1,2 @@
 # Final-Year-project
-This is my repository for final year project
+This is my repository for the final year project
